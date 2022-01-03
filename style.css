@@ -88,6 +88,10 @@
         list-style: none;
     }
 
+    .courses-item{
+        list-style: none;
+    }
+
 
       @media (max-width: 768px) {
     .section {
